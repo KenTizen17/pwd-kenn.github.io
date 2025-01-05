@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Réseau arthur.com"
+title: "Réseau arthur.local"
 permalink: /portfolio/
 author_profile: true
 ---

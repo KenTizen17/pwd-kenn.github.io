@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Réseau Hugo.com"
+title: "Réseau Chill.Hugo"
 permalink: /talks/
 author_profile: true
 ---

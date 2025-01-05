@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Réseau alexis.com"
+title: "Réseau alexis.local"
 permalink: /teaching/
 author_profile: true
 ---
