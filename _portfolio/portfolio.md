@@ -7,7 +7,8 @@ author_profile: true
 
 Bienvenue sur la page d'accueil du rapport individuel d'Arthur WAMSTER
 
-![Topologie du Réseau]({{ site.baseurl }}/images/Arthur.png)
+![Topologie du Réseau](https://kentizen17.github.io/pwd-kenn.github.io/images/Arthur.png){: style="width: 100%; margin:auto; display:block;"}
+
 
 
 ## Choix
