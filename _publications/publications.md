@@ -7,7 +7,7 @@ author_profile: true
 
 Bienvenue sur la page d'accueil du rapport individuel de Ken TIZEN DJONGUE
 
-![Topologie du Réseau](/images/ken.png){: style="width: 100%; margin:auto; display:block;"}
+![Topologie du Réseau]({{ site.baseurl }}/images/ken.png){: style="width: 100%; margin:auto; display:block;"}
 
 
 Mes choix sont identiques à ceux que vous avez sur la page d'acceuil

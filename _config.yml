@@ -21,7 +21,7 @@ repository               : "KenTizen17/pwd-kenn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/pepe.png"
+  avatar           : "pepe.png"
   name             : "Les ROOKIES"
   pronouns         : # example: "she/her"  
   bio              : "Site reservé aux personnes assertives et pondérées"

@@ -7,7 +7,7 @@ author_profile: true
 
 Bienvenue sur la page d'accueil du rapport individuel d'Alexis WAMSTER
 
-![Topologie du Réseau](/images/Alexis.png){: style="width: 100%; margin:auto; display:block;"}
+![Topologie du Réseau]({{ site.baseurl }}/images/Alexis.png){: style="width: 100%; margin:auto; display:block;"}
 
 ## Choix
 

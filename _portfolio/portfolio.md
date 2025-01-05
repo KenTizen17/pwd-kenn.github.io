@@ -7,7 +7,8 @@ author_profile: true
 
 Bienvenue sur la page d'accueil du rapport individuel d'Arthur WAMSTER
 
-![Topologie du Réseau](/images/Arthur.png){: style="width: 100%; margin:auto; display:block;"}
+![Topologie du Réseau]({{ site.baseurl }}/images/Arthur.png)
+
 
 ## Choix
 
