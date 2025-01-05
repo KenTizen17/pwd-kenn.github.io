@@ -33,7 +33,7 @@ L'interconnexion entre les réseau de chaque entreprise c'est faite via wifi (SK
 
 Ci-dessous le schéma de cette interconnexion
 
-![Topologie du Réseau](https://kentizen17.github.io/pwd-kenn.github.io/images/Arthur.png){: style="width: 100%; margin:auto; display:block;"}
+![Topologie du Réseau](https://kentizen17.github.io/pwd-kenn.github.io/images/archifi.png){: style="width: 100%; margin:auto; display:block;"}
 ---
 
 ## Principaux choix effectués
