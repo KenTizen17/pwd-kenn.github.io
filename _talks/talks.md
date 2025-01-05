@@ -8,7 +8,7 @@ author_profile: true
 Bienvenue sur la page d'accueil du rapport individuel d'Hugo CASTELL
 
 
-![Topologie du Réseau]({{ site.baseurl }}/images/Hugo.png){: style="width: 100%; margin:auto; display:block;"}
+![Topologie du Réseau](https://kentizen17.github.io/pwd-kenn.github.io/images/Hugo.png){: style="width: 100%; margin:auto; display:block;"}
 
 ## Choix
 
